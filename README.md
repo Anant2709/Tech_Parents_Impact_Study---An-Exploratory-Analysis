@@ -40,9 +40,3 @@ The dataset consists of various student attributes:
 📌 **GPA remains unaffected:** No significant difference in academic performance across groups.  
 📌 **Study habits stay constant:** Parental tech background does not influence group study participation or note-taking.  
 📌 **Lifestyle choices are independent:** Sleep schedules and screentime habits are shaped more by personal factors.
-
-## How to Use the Notebook
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/Tech_Parents_Impact_Study.git
-   cd Tech_Parents_Impact_Study
